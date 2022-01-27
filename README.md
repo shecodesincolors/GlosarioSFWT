@@ -103,3 +103,18 @@ Glosario de conceptos Skills for Women in Tech
 
 86. **Arreglo o array**
 87. **ForEach**
+
+
+// Recursos SFWT que han compartido super útiles 💜
+
+Intro a la programación
+https://informaticapc.com/teoria-de-la-programacion/
+
+Síntaxis de Github
+https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings
+
+Practicar/Aprender GIT:
+https://learngitbranching.js.org/?locale=es_MX
+
+Dudas 20 de Enero (Max):
+https://vimeo.com/668420518/30387432b0
