@@ -4,70 +4,70 @@ Glosario de conceptos Skills for Women in Tech
 *Conceptos y definiciones mentorías Skills for Women in Tech*
 
 
-1. **IDE**
-2. **repo**
-3. **git**
-4. **server**
-5. **cloud**
-6. **SQL**
-7. **NoSQL**
-8. **data**
-9. **JSON**
-10. **variable**
-11. **método función**
-12. **API**
-13. **EndPoint**
-14. **EP**
-15. **PR**
-16. **Pull**
-17. **request**
-18. **commit**
-19. **push**
-20. **local**
-21. **docker**
-22. **docker file**
-23. **css**
-24. **token**
-25. **issue**
-26. **POST**
-27. **GET**
-28. **DELETE
-29. **HTTP**
-30. **HEADER**
-31. **HEADERS**
-32. **Backend**
-33. **Frontend**
-34. **Algoritmo**
-35. **Estructuras de datos**
-36. **caché**
-37. **socket**
-38. **array**
-39. **CI/DI**
-40. **Linux**
-41. **Hosting**
-42. **SSL**
-43. **bug**
-44. **framework**
-45. **libreria**
-46. **rest**
-47. **GraphQL**
-48. **Request**
-49. **DevOPs**
-50. **SCRUM**
-51. **Agile**
-52. **Full Stack**
-53. **UX**
-54. **UI**
-55. **SysAdmin**
-56. **QA**
-57. **Tester**
-58. **DBA**
-59. **Cyberseguridad**
-60. **Hack**
-61. **Cookies**
-62. **responsive**
-63. **Micro servicios**
-64. **Kubernetes**
+1. **IDE** <br/> An integrated development environment (IDE) is software for building applications that combines common developer tools into a single graphical user interface (GUI).
+4. **repo**
+5. **git**
+6. **server**
+7. **cloud**
+8. **SQL**
+9. **NoSQL**
+10. **data**
+11. **JSON**
+12. **variable**
+13. **método función**
+14. **API**
+15. **EndPoint**
+16. **EP**
+17. **PR**
+18. **Pull**
+19. **request**
+20. **commit**
+21. **push**
+22. **local**
+23. **docker**
+24. **docker file**
+25. **css**
+26. **token**
+27. **issue**
+28. **POST**
+29. **GET**
+30. **DELETE
+31. **HTTP**
+32. **HEADER**
+33. **HEADERS**
+34. **Backend**
+35. **Frontend**
+36. **Algoritmo**
+37. **Estructuras de datos**
+38. **caché**
+39. **socket**
+40. **array**
+41. **CI/DI**
+42. **Linux**
+43. **Hosting**
+44. **SSL**
+45. **bug**
+46. **framework**
+47. **libreria**
+48. **rest**
+49. **GraphQL**
+50. **Request**
+51. **DevOPs**
+52. **SCRUM**
+53. **Agile**
+54. **Full Stack**
+55. **UX**
+56. **UI**
+57. **SysAdmin**
+58. **QA**
+59. **Tester**
+60. **DBA**
+61. **Cyberseguridad**
+62. **Hack**
+63. **Cookies**
+64. **responsive**
+65. **Micro servicios**
+66. **Kubernetes**
 
 65. **Git-Github**
 66. **Fork**
