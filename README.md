@@ -4,18 +4,20 @@ Glosario de conceptos Skills for Women in Tech
 *Conceptos y definiciones mentorías Skills for Women in Tech*
 
 
-1. **IDE** <br/> An integrated development environment (IDE) is software for building applications that combines common developer tools into a single graphical user interface (GUI).
-4. **repo**
-5. **git**
-6. **server**
-7. **cloud**
-8. **SQL**
-9. **NoSQL**
-10. **data**
-11. **JSON**
-12. **variable**
-13. **método función**
-14. **API**
+1. **IDE**<br/>An integrated development environment (IDE) is software for building applications that combines common developer tools into a single graphical user interface (GUI).
+2. **repo**<br/>In software development, a repository is a central file storage location. It is used by version control systems to store multiple versions of files.
+3. **git**<br/>Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency(Git,2022). 
+4. **server**<br/>In computing, a server is a piece of computer hardware or software (computer program) that provides functionality for other programs or devices, called "clients"(Wikipedia,2022).
+5. **cloud**<br/>The term "cloud" comes from early network diagrams, in which the image of a cloud was used to indicate a large network, such as a WAN. The cloud eventually became associated with the entire Internet, and the two terms are now used synonymously. The cloud may also be used to describe specific online services, which are collectively labeled "cloud computing."(TechTerms,2022).
+6. **SQL**
+7. **NoSQL**
+8. **data**
+9. **JSON**
+10. **variable**
+11. **método función**
+12. **API**
+
+
 15. **EndPoint**
 16. **EP**
 17. **PR**
@@ -118,3 +120,7 @@ https://learngitbranching.js.org/?locale=es_MX
 
 Dudas 20 de Enero (Max):
 https://vimeo.com/668420518/30387432b0
+
+// Referencias bibliográficas. Conceptos Glosario.
+Tech Terms
+https://techterms.com/definition/cloud
