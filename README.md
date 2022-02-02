@@ -108,6 +108,7 @@ Glosario de conceptos Skills for Women in Tech
 
 
 hosting donde se monta una pagina web
+Hosting es un servidor donde se hostean páginas. Donde se publican páginas web.
 dominio
 
 Checar Dreamhost, VPS, servidores dedicados.
