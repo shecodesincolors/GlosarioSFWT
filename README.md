@@ -107,6 +107,11 @@ Glosario de conceptos Skills for Women in Tech
 87. **ForEach**
 
 
+hosting donde se monta una pagina web
+dominio
+
+Checar Dreamhost, VPS, servidores dedicados.
+
 // Recursos SFWT que han compartido super útiles 💜
 
 Intro a la programación
