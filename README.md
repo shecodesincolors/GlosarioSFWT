@@ -111,6 +111,28 @@ hosting donde se monta una pagina web
 Hosting es un servidor donde se hostean páginas. Donde se publican páginas web.
 dominio
 
+
+**Intro a desarrollo web**
+Front Vanilla o limpio: HTML5 + CSS + JS
+Front con librerías y frameworks: React, Vue, Angular, next y otros
+Pearl
+ASP
+Legacy
+Performance
+ORM
+CRM
+Servicios web
+Rest
+Soap (SAT)
+XML-RPC
+GRAPHQL
+Clusters
+Capas
+
+
+
+
+
 Checar Dreamhost, VPS, servidores dedicados.
 
 // Recursos SFWT que han compartido super útiles 💜
