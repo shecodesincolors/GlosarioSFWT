@@ -133,6 +133,26 @@ PRIMEROS PASOS JAVA
 Spring Tools Suite
 Herencia
 
+**CSS** <br/> Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.([Mozilla Developer]) (https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+**Endpoint** </br> An endpoint is a remote computing device that communicates back and forth with a network to which it is connected. Examples of endpoints include:
+Desktops
+Laptops
+Smartphones
+Tablets
+Servers
+Workstations
+Internet-of-things (IoT) devices 
+([Palo Alto Networks]) (https://www.paloaltonetworks.com/cyberpedia/what-is-an-endpoint#:~:text=An%20endpoint%20is%20a%20remote,Smartphones)
+
+**CRUD** </br>
+CRUD (Create, Read, Update, Delete) es un acrónimo para las maneras en las que se puede operar sobre información almacenada. Es un nemónico para las cuatro funciones del almacenamiento persistente. CRUD usualmente se refiere a operaciones llevadas a cabo en una base de datos o un almácen de datos, pero también pude aplicar a funciones de un nivel superior de una aplicación como soft deletes donde la información no es realmente eliminada, sino es marcada como eliminada a tráves de un estatus. ([Mozilla Developer])(https://developer.mozilla.org/es/docs/Glossary/CRUD)
+
+ORM </br>
+Un ORM es un modelo de programación que permite mapear las estructuras de una base de datos relacional (SQL Server, Oracle, MySQL, etc.), en adelante RDBMS (Relational Database Management System), sobre una estructura lógica de entidades con el objeto de simplificar y acelerar el desarrollo de nuestras aplicaciones.
+
+Las estructuras de la base de datos relacional quedan vinculadas con las entidades lógicas o base de datos virtual definida en el ORM, de tal modo que las acciones CRUD (Create, Read, Update, Delete) a ejecutar sobre la base de datos física se realizan de forma indirecta por medio del ORM. ([Deloitte]) (https://www2.deloitte.com/es/es/pages/technology/articles/que-es-orm.html)
+
 
 
 Checar Dreamhost, VPS, servidores dedicados.
@@ -154,3 +174,6 @@ https://vimeo.com/668420518/30387432b0
 // Referencias bibliográficas. Conceptos Glosario.
 Tech Terms
 https://techterms.com/definition/cloud
+Mozilla Developer
+https://developer.mozilla.org/en-US/docs/Web/CSS
+
